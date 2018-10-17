@@ -1,6 +1,7 @@
 # <a name="top"></a>Getting Started with git and GitHub
 
 Hello world
+Sean
 
 Ok this is good to have done use the [issues](https://github.com/drphilmarshall/GettingStarted/issues) to post requests for more FAQ!
 
