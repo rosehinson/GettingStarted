@@ -42,7 +42,7 @@ set file = README.md
 # Parse command line:
 
 while ( $#argv > 0 )
-   switch ($argv[1])
+   switch ($argv[2])
    case -h:           #  print help
       set help = 1
       shift argv
